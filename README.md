@@ -2,6 +2,7 @@
 Web scraper to pull various data from Bitskins.com
 
 **About this project**
+
 This project aims to leverage on the API created by Bitskins.com to extract historical price data, current inventory, and relevant account information from the website's database. 
 
 Bitskins.com is an online marketplace where millions of players from popular online games like Counter-Strike: Global Offensive and Dota 2 can go to sell their virtual items for real money. Traditionally, players have been limited to selling their items on the Steam marketplace, where proceeds from sales are credited directly into the player's account. As such, players who want to "cash out" their virtual items often turn to third-party marketplaces to sell their items in return for real world cash. 
