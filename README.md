@@ -13,4 +13,10 @@ The benefit of this is two-fold. First, sellers get to cash out their items, and
 
 **Objective of this project**
 
-Ultimately, the objective of this project is to create a program that allows the user to run an arbitrage strategy for liquid virtual CSGO items. Currently, the unrefined model screens a list of item categories, and uses a set o criteria to execute buy and sell orders.
+Ultimately, the objective of this project is to create a program that allows the user to run an arbitrage strategy for liquid virtual CSGO items. Currently, the unrefined model screens a list of item categories, and uses a set of criteria to execute buy and sell orders.
+
+If users are not interested in such practice, they can simply use the program to run price checks, which returns a list of items on sale and their prices, account balances, etc. 
+
+**Notes**
+
+This program is a practice project for object-oriented programming in Python as well as practice for web scraping using APIs.
